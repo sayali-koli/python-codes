@@ -1,0 +1,5 @@
+my_tuple = (1, 2, 3, "sayali", "koli", "solapur", 99)
+print(my_tuple[0:2])
+print(my_tuple[0:4:2])
+print(my_tuple[:8])
+print(my_tuple[::-1])
